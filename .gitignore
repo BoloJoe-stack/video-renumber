@@ -1,0 +1,8 @@
+.venv/
+build/
+dist/
+.pip-cache/
+.shots/
+__pycache__/
+*.pyc
+before.json
