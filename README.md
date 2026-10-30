@@ -11,11 +11,11 @@ Windows 桌面工具，用于批量处理以「人名（序号）」命名的视
 ## 系统要求
 
 - Windows 10 或 Windows 11，64 位。
-- 免安装：从发布页下载 `视频随机编号.exe` 后直接运行，无需安装 Python。
+- 免安装：从 [Releases](https://github.com/BoloJoe-stack/video-renumber/releases/latest) 下载 `VideoRenumber.exe` 后直接运行，无需安装 Python。
 
 ## 使用
 
-1. 运行 `视频随机编号.exe`。
+1. 运行 `VideoRenumber.exe`（窗口标题为「视频随机编号」）。
 2. 点击「添加文件夹」选择视频目录。路径保存在列表中，可重复使用；选中后点击「删除」仅从列表移除，不删除磁盘文件。
 3. 在「人名」中填写人名（按文件夹分别记忆），在「起始序号」中填写第一个编号（默认 1）。
 4. 点击「统一命名」或「开始随机编号」。
